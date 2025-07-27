@@ -1,0 +1,6 @@
+OpenCV-python
+NumPy
+TensorFlow
+keras
+pywhatkit
+deepface
