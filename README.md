@@ -8,7 +8,7 @@ Moodify is an AI-powered desktop application that detects your **facial expressi
 - Happy 
 - Sad 
 - Angry 
-- Neutral 
+- Neutral etc., 
 
 (More moods can be added easily!)
 
