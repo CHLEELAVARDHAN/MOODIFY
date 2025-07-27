@@ -29,9 +29,9 @@ Moodify is an AI-powered desktop application that detects your **facial expressi
    cd moodify-telugu
 
 2. Install required packages:
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. Run the project:
 ```bash
-python main.py
+   python main.py
