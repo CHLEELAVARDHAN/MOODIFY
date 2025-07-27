@@ -25,7 +25,7 @@ Moodify is an AI-powered desktop application that detects your **facial expressi
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CHLEELAVARDHAN/moodify-telugu.git
+   git clone https://github.com/CHLEELAVARDHAN/MOODIFY.git
    cd moodify-telugu
 
 2. Install required packages:
