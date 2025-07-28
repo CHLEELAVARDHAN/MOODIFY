@@ -1,4 +1,4 @@
-#  Moodify Telugu – Mood-Based Music Player 🎶
+#  Moodify – Mood Based Music Player 🎶
 
 Moodify is an AI-powered desktop application that detects your **facial expression** using your webcam and plays **matching Telugu songs** based on your mood in real-time. It’s built with OpenCV, Deep Learning, and Python magic! 💻🎧
 
